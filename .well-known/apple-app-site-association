@@ -1,4 +1,12 @@
 {
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [ "YE55WF8QQM.com.syscocorp.mss.development.dev" ],
+        "paths": [ "*" ]
+      }
+    ]
+  },
   "webcredentials": {
     "apps": [ "YE55WF8QQM.com.syscocorp.mss.development.dev" ]
   }
