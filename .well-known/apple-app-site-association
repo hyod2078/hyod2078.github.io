@@ -2,12 +2,12 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [ "YE55WF8QQM.myCompany.HeshKeyChainAccess" ],
+        "appIDs": [ "YE55WF8QQM.myCompany.HeshKeyChainAccessSysco" ],
         "paths": [ "*" ]
       }
     ]
   },
   "webcredentials": {
-    "apps": [ "YE55WF8QQM.myCompany.HeshKeyChainAccess" ]
+    "apps": [ "YE55WF8QQM.myCompany.HeshKeyChainAccessSysco" ]
   }
 }
